@@ -23,3 +23,4 @@ Na aula 3 foi demonstrado como utilizar mysqli para inclusão e consulta de dado
 
 (https://www.w3schools.com/php/php_date.asp)
 
+(https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
