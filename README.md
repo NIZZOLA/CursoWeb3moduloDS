@@ -24,3 +24,13 @@ Na aula 3 foi demonstrado como utilizar mysqli para inclusão e consulta de dado
 (https://www.w3schools.com/php/php_date.asp)
 
 (https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
+
+# Referências AULA 4
+
+Na aula 4 foi demonstrado como utilizar mysqli para alteração, consulta e exclusão de dados
+
+(https://www.w3schools.com/php/php_mysql_update.asp)
+
+(https://www.w3schools.com/php/php_mysql_delete.asp)
+
+(https://www.w3schools.com/php/php_mysql_select.asp)
